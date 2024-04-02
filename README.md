@@ -62,17 +62,30 @@
 ### MS PPT + Tableau + Results presentations
 ![image](https://github.com/OnonaChukwu/Flu-Season-Preparation/assets/155753951/d14c6688-81e9-42b5-ad33-b9ce34066f5c)
 
-## Results
+## [Results](https://public.tableau.com/app/profile/charles.ikenna.nwankwo/viz/Influenzadatastory_17054380510140/Deathcountbyage)
 ![image](https://github.com/OnonaChukwu/Flu-Season-Preparation/assets/155753951/0f499a4e-e181-432c-9ceb-797b04b0f545)
 ## 85 years and above are more vulnerable to influenza infestation
-
 
 ![image](https://github.com/OnonaChukwu/Flu-Season-Preparation/assets/155753951/9bb7a549-6018-47aa-8312-1eb0f5abfc14)
 ## No statistical difference between female and male infestation rates
 
-
 ![image](https://github.com/OnonaChukwu/Flu-Season-Preparation/assets/155753951/8dc8c4b0-8725-483b-a038-bf1144987c32)
 ## High regional mortality rate is associated with high population density
 
+## Project key findings
 
+## 85+ years are most vulnerable to influenza infestation; elderly-targeted pre-season preparation be beneficial
+
+## Male and female populations influenza infestation rates are same; universal approach to vaccination will fit
+
+## Regional mortality rates are positively correlated with population density; region-targeted vaccination efforts could be beneficial
+
+## Conclusions
+
+### Average death count from influenza in the US is 34 per State; this is huge
+### There is a notable impact on aged populations and more dense regions
+### Proper and effective influenza vaccination program could be implemented
+### Reducing the annual burden of influenza is possible with the evaluated data 
+### More health workers should be deployed in more densely populated states
+![image](https://github.com/OnonaChukwu/Flu-Season-Preparation/assets/155753951/19ccd6da-6c21-4f19-a6cc-4ed4fab91ad8)
 
