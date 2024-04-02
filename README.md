@@ -81,7 +81,6 @@
 ## Regional mortality rates are positively correlated with population density; region-targeted vaccination efforts could be beneficial
 
 ## Conclusions
-
 ### Average death count from influenza in the US is 34 per State; this is huge
 ### There is a notable impact on aged populations and more dense regions
 ### Proper and effective influenza vaccination program could be implemented
